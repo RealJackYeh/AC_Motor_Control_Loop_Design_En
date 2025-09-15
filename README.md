@@ -22,7 +22,7 @@ AC_Motor_Control_Loop_Design_En/
 │── Chapter_03/   # Modulation Strategies for Three-Phase Inverters
 │── Chapter_04/   # Hardware-Based Design Validation
 │── Chapter_05/   # Practical Issues in Control Implementation
-│── Chapter_06/   # Refresher on Classical Control Theory
+│── Appendix_A/   # Refresher on Classical Control Theory
 │── README.md
 ```
 
